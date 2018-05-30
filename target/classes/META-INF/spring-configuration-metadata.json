@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "properties": [],
+  "groups": [
+    {
+      "sourceType": "com.liuxc.restfult.config.TransactionalConfig",
+      "name": "aidijing.transactional",
+      "type": "com.liuxc.restfult.config.TransactionalConfig"
+    },
+    {
+      "sourceType": "com.liuxc.restfult.config.DruidConfig",
+      "sourceMethod": "public javax.sql.DataSource druidDataSource() ",
+      "name": "spring.datasource",
+      "type": "javax.sql.DataSource"
+    }
+  ]
+}
